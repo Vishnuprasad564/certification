@@ -30,25 +30,24 @@ while True:
             print("Cart is empty.")
         else:
             name = input("Enter item name to remove: ")
+            found = False
             for item in cart:
                 if item['name'] == name:
                     cart.remove(item)
                     print(f"{name} removed from cart.")
-                    break 
-            else:
+                    found = True
+                    break
+            if not found:
                 print("Item not found.")
-
     
     elif choice == '4':
         total = 0
         for item in cart:
             total += item['price'] * item['quantity']
-            if total>500:
-                print("Discount Availed")
         print(f"Total amount: {total}")
     
     elif choice == '5':
-        print("Thenks!")
+        print("Thank you for shopping!")
         break
     
     else:
