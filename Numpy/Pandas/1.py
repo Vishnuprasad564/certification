@@ -11,5 +11,9 @@ data = data.drop(columns=["ADDRESSLINE2"])
 
 data["MSRP"] = data["MSRP"].fillna(data["MSRP"].median())
 data["YEAR_ID"] = data["YEAR_ID"].fillna(data["YEAR_ID"].mode()[0])
-print(data.isnull().sum())
+#print(data.isnull().sum())
 
+#data["STATUS"].fillna(data["STATUS"].mode()[0],inplace=True)
+#print(data.isnull().sum())
+data["PHONE"].fillna("Unknown", inplace=True)
+print(data.isnull().sum())
