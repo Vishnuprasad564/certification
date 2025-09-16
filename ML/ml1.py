@@ -75,3 +75,4 @@ if prediction == 1:
 else:
     print(f"\nPrediction: Malignant (Cancerous) ")
     
+    
