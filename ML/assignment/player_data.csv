@@ -1,0 +1,51 @@
+Player,Team,Matches_Played,Shots_On_Target,Assists,Minutes_Played,Position,Goals
+Player1,Barcelona,30,70,12,2700,Forward,25
+Player2,Real Madrid,28,65,10,2500,Forward,22
+Player3,Chelsea,32,55,8,2800,Midfielder,15
+Player4,AC Milan,31,60,9,2750,Forward,20
+Player5,Arsenal,29,50,11,2600,Forward,18
+Player6,Manchester City,33,80,14,2900,Forward,28
+Player7,Barcelona,27,40,6,2400,Midfielder,10
+Player8,Real Madrid,26,38,7,2300,Midfielder,9
+Player9,Chelsea,30,45,10,2700,Midfielder,12
+Player10,AC Milan,28,42,5,2500,Defender,3
+Player11,Arsenal,32,70,8,2800,Forward,23
+Player12,Manchester City,31,60,12,2750,Forward,21
+Player13,Barcelona,30,55,9,2600,Midfielder,14
+Player14,Real Madrid,29,50,11,2650,Forward,19
+Player15,Chelsea,33,65,13,2900,Forward,26
+Player16,AC Milan,27,40,6,2450,Midfielder,11
+Player17,Arsenal,28,38,7,2500,Midfielder,10
+Player18,Manchester City,32,75,15,2850,Forward,27
+Player19,Barcelona,31,60,10,2700,Forward,22
+Player20,Real Madrid,30,55,8,2600,Midfielder,14
+Player21,Chelsea,29,50,9,2500,Forward,18
+Player22,AC Milan,33,65,12,2900,Forward,24
+Player23,Arsenal,27,45,6,2400,Midfielder,11
+Player24,Manchester City,28,70,14,2750,Forward,25
+Player25,Barcelona,32,60,10,2800,Forward,23
+Player26,Real Madrid,31,58,12,2700,Forward,21
+Player27,Chelsea,30,50,8,2600,Midfielder,16
+Player28,AC Milan,29,45,9,2550,Forward,19
+Player29,Arsenal,33,65,13,2900,Forward,26
+Player30,Manchester City,27,40,7,2450,Midfielder,10
+Player31,Barcelona,28,50,8,2500,Midfielder,13
+Player32,Real Madrid,32,70,15,2850,Forward,27
+Player33,Chelsea,31,55,9,2750,Forward,20
+Player34,AC Milan,30,60,12,2700,Forward,22
+Player35,Arsenal,29,45,7,2600,Midfielder,12
+Player36,Manchester City,33,75,14,2900,Forward,28
+Player37,Barcelona,27,40,6,2450,Midfielder,10
+Player38,Real Madrid,28,50,8,2500,Forward,18
+Player39,Chelsea,32,60,11,2800,Forward,23
+Player40,AC Milan,31,55,9,2750,Forward,21
+Player41,Arsenal,30,50,10,2700,Midfielder,15
+Player42,Manchester City,29,65,13,2600,Forward,24
+Player43,Barcelona,33,75,14,2900,Forward,28
+Player44,Real Madrid,27,40,6,2400,Midfielder,10
+Player45,Chelsea,28,45,7,2500,Midfielder,11
+Player46,AC Milan,32,70,12,2850,Forward,25
+Player47,Arsenal,31,60,10,2700,Forward,22
+Player48,Manchester City,30,65,13,2750,Forward,26
+Player49,Barcelona,29,50,9,2600,Midfielder,14
+Player50,Real Madrid,33,80,15,2950,Forward,30
